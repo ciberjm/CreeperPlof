@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  tags:
+  - Enemy
+  - Block
+  - 
+  Builtin Layer 0: Default
+  Builtin Layer 1: TransparentFX
+  Builtin Layer 2: Ignore Raycast
+  Builtin Layer 3: 
+  Builtin Layer 4: Water
+  Builtin Layer 5: UI
+  Builtin Layer 6: 
+  Builtin Layer 7: 
+  User Layer 8: 
+  User Layer 9: 
+  User Layer 10: Player
+  User Layer 11: Block
+  User Layer 12: Enemy
+  User Layer 13: ScorePopup
+  User Layer 14: 
+  User Layer 15: 
+  User Layer 16: 
+  User Layer 17: 
+  User Layer 18: 
+  User Layer 19: 
+  User Layer 20: GUI
+  User Layer 21: 
+  User Layer 22: 
+  User Layer 23: 
+  User Layer 24: 
+  User Layer 25: 
+  User Layer 26: 
+  User Layer 27: 
+  User Layer 28: 
+  User Layer 29: 
+  User Layer 30: 
+  User Layer 31: 
+  m_SortingLayers:
+  - name: Default
+    userID: 0
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    userID: 3
+    uniqueID: 54568133
+    locked: 0
+  - name: Floor blocks
+    userID: 1
+    uniqueID: 1567781765
+    locked: 0
+  - name: Floor level
+    userID: 2
+    uniqueID: 3442026727
+    locked: 0
+  - name: Play level
+    userID: 4
+    uniqueID: 3701234485
+    locked: 0
+  - name: Particles
+    userID: 8
+    uniqueID: 622323271
+    locked: 0
+  - name: Top deco
+    userID: 5
+    uniqueID: 558300833
+    locked: 0
+  - name: ScorePopup
+    userID: 7
+    uniqueID: 253614779
+    locked: 0
+  - name: GUI
+    userID: 6
+    uniqueID: 1578556177
+    locked: 0

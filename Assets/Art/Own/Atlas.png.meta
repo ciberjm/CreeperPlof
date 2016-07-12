@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 5c6b46bac04902e41bfad96c976ec58c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Atlas
+    21300002: BlockYellow
+    21300004: BlockMagenta
+    21300006: BlockGreen
+    21300008: BlockRed
+    21300010: BlockCyan
+    21300012: BlockGray
+    21300014: BlockOrange
+    21300016: BlockBlue
+    21300018: BlockPurple
+    21300020: BlockBrown
+    21300022: BlockWhite
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 2
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BlockYellow
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 174
+        width: 64
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 80}
+        - {x: 0, y: 0}
+        - {x: 64, y: 0}
+        - {x: 64, y: 80}
+    - name: BlockRed
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 174
+        width: 64
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 80}
+        - {x: 0, y: 0}
+        - {x: 64, y: 0}
+        - {x: 64, y: 80}
+    - name: BlockBlue
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 174
+        width: 64
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 80}
+        - {x: 0, y: 0}
+        - {x: 64, y: 0}
+        - {x: 64, y: 80}
+    - name: BlockGreen
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 92
+        width: 64
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 80}
+        - {x: 0, y: 0}
+        - {x: 64, y: 0}
+        - {x: 64, y: 80}
+    - name: BlockPurple
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 92
+        width: 64
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 80}
+        - {x: 0, y: 0}
+        - {x: 64, y: 0}
+        - {x: 64, y: 80}
+    - name: BlockCyan
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 92
+        width: 64
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 80}
+        - {x: 0, y: 0}
+        - {x: 64, y: 0}
+        - {x: 64, y: 80}
+    - name: BlockBrown
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 10
+        width: 64
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 80}
+        - {x: 0, y: 0}
+        - {x: 64, y: 0}
+        - {x: 64, y: 80}
+    - name: BlockGray
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 10
+        width: 64
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 80}
+        - {x: 0, y: 0}
+        - {x: 64, y: 0}
+        - {x: 64, y: 80}
+    - name: BlockWhite
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 10
+        width: 64
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 80}
+        - {x: 0, y: 0}
+        - {x: 64, y: 0}
+        - {x: 64, y: 80}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
